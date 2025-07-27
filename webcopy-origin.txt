@@ -1,0 +1,60 @@
+Uri: https://app.pixverse.ai/home
+File Name: D:\ULTRA\ty\app.pixverse.ai\home.html
+Content Type: text/html
+
+Uri: https://cdn.pixverse.ai/app/app-pixverse/assets/index-RkBpE9M9.css
+File Name: D:\ULTRA\ty\app.pixverse.ai\app\app-pixverse\assets\index-RkBpE9M9.css
+Content Type: text/css
+
+Uri: https://cdn.pixverse.ai/app/app-pixverse/assets/index-yqSWtMth.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\app\app-pixverse\assets\index-yqSWtMth.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/app/app-pixverse/assets/vendor-D9YL_las.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\app\app-pixverse\assets\vendor-D9YL_las.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg
+File Name: D:\ULTRA\ty\app.pixverse.ai\app\app-pixverse\favicon-pixverse.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.pixverse.ai/lib/antd/5.26.3/dist/antd.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\antd\5.26.3\dist\antd.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/axios/1.10.0/dist/axios.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\axios\1.10.0\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/dayjs/1.11.13/dayjs.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\dayjs\1.11.13\dayjs.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/lodash/4.17.21/lodash.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\lodash\4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/mobx/6.13.7/dist/mobx.umd.production.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\mobx\6.13.7\dist\mobx.umd.production.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/react-dom/18.3.1/umd/react-dom.production.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\react-dom\18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/react/18.3.1/umd/react.production.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\react\18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/report/1.27.4/report.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\report\1.27.4\report.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.pixverse.ai/lib/xgplayer/3.0.22/dist/index.min.css
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\xgplayer\3.0.22\dist\index.min.css
+Content Type: text/css
+
+Uri: https://cdn.pixverse.ai/lib/xgplayer/3.0.22/dist/index.min.js
+File Name: D:\ULTRA\ty\app.pixverse.ai\lib\xgplayer\3.0.22\dist\index.min.js
+Content Type: application/javascript
+
